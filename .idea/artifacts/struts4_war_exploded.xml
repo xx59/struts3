@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="struts4:war exploded">
+    <output-path>E:/struts4/target/struts4</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="struts4" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="E:/struts4/target/struts4/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="struts4/web/Web" />
+    </root>
+  </artifact>
+</component>

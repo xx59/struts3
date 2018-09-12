@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/hat.iml" filepath="$PROJECT_DIR$/hat.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaaaa.iml" filepath="$PROJECT_DIR$/javaaaa.iml" />
+      <module fileurl="file://E:/struts/struts.iml" filepath="E:/struts/struts.iml" />
+      <module fileurl="file://E:/struts1/struts1.iml" filepath="E:/struts1/struts1.iml" />
+      <module fileurl="file://E:/struts2/struts2.iml" filepath="E:/struts2/struts2.iml" />
+      <module fileurl="file://E:/struts3/struts3.iml" filepath="E:/struts3/struts3.iml" />
+      <module fileurl="file://E:/struts4/struts4.iml" filepath="E:/struts4/struts4.iml" />
     </modules>
   </component>
 </project>
